@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671689595 source:c:\users\pc\desktop\tafadzwa\nustcs1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1671689595 source:c:\users\pc\desktop\projects\nust c projects\cexpect\tafadzwa\nustcs1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
